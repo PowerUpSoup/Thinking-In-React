@@ -35,7 +35,7 @@ class Summary extends Component {
                 <h2>Your cart</h2>
                 {summary}
                 <Total 
-                    total={this.total}/>
+                    total={total}/>
             </section>
             )
     }
